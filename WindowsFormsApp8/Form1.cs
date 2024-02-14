@@ -56,6 +56,7 @@ namespace WindowsFormsApp8
         private void Form1_Load(object sender, EventArgs e)
         {
             Text = "Калькулятор";
+            this.BackColor = Color.Orange;
         }
 
         private void button16_Click(object sender, EventArgs e)
